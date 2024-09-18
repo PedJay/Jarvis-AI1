@@ -1,7 +1,7 @@
 [
     {
         "domain": ".google.com",
-        "expirationDate": 1740623036.527958,
+        "expirationDate": 1740623036.490954,
         "hostOnly": false,
         "httpOnly": true,
         "name": "AEC",
@@ -10,7 +10,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AVYB7cpsNRTp8xb9H76HcIM-BPCd4JtDuXq5EYJ07KHollXovfX4oYK9jQ"
+        "value": "AVYB7cquPcjLgPrvtsgU5SYBJ2PxwoxcUojb3psCgz6vlWwdiXk8pjq6Vw"
     },
     {
         "domain": "chromewebstore.google.com",
@@ -27,7 +27,7 @@
     },
     {
         "domain": ".google.com",
-        "expirationDate": 1741057375.835243,
+        "expirationDate": 1742440131.929767,
         "hostOnly": false,
         "httpOnly": true,
         "name": "NID",
@@ -36,6 +36,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "517=QkNfrZRRhvBgCAbs4ucWuFZWddpK8W8VmxWm9ICgJPQyNzt-ubLWLaemZpA4hfRVVdGNcQ0kjhKZhCoDgHq620Qc3yf4fwnzUwsCpGXayGivW48JZbwgJsSXmsnL-KadAbBBPNPazB_E_-IZ-NDcaUC33PVsanaUMXsjtodaC4otqDClNEuPFUGBcoeOfQoiaeC92_UFSIDDgQvETavRnQ"
+        "value": "517=sX08nwIJwwXx-vDDY5VbIhT45LQfYzDunx-AtKVCGfL6KzEVofvpOPQ2RYW4WeuSiJm75UVyQjcXirF2bSeILRcTixKbYjJ1kjroe-NjnSzNj6nQslyKWMfbegqcn0y67eQydPaYKqnA1mIWl-bxv3A9x_0t9b2-3qeFm2IPGPVf2Cc94o47gqk_F6Awf6rbTT9LPfo8PLgW7AW4v_aK77NKl-MCMJow"
     }
 ]
